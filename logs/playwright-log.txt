@@ -1,0 +1,97 @@
+{"level":30,"time":"2025-05-28T11:51:05.903Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Listening on 127.0.0.1:50810"}
+(node:12208) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2025-05-28T11:51:06.142Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2025-05-28T11:51:07.504Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Adding browser to stack: chromium, version: 136.0.7103.25"}
+{"level":30,"time":"2025-05-28T11:51:07.506Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method newBrowser"}
+{"level":30,"time":"2025-05-28T11:51:07.506Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2025-05-28T11:51:07.530Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-05-28T11:51:07.530Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-05-28T11:51:07.555Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Changed active context"}
+{"level":30,"time":"2025-05-28T11:51:08.193Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Video path: undefined"}
+{"level":30,"time":"2025-05-28T11:51:08.194Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Changed active page"}
+{"level":30,"time":"2025-05-28T11:51:08.836Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method newPage"}
+{"level":30,"time":"2025-05-28T11:51:08.892Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T11:51:08.905Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T11:51:09.038Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method goTo"}
+{"level":30,"time":"2025-05-28T11:51:09.169Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method goTo"}
+{"level":30,"time":"2025-05-28T11:51:09.231Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-05-28T11:51:09.232Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2025-05-28T11:51:09.299Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-05-28T11:51:09.322Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method getText"}
+{"level":30,"time":"2025-05-28T11:51:09.322Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2025-05-28T11:51:09.376Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Retrieved text for element css=h1 containing Faça seu cadastro"}
+{"level":30,"time":"2025-05-28T11:51:09.376Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method getText"}
+{"level":30,"time":"2025-05-28T11:51:09.394Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-28T11:51:09.394Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2025-05-28T11:51:09.426Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-28T11:51:09.446Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-28T11:51:09.446Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2025-05-28T11:51:09.470Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-28T11:51:09.487Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-28T11:51:09.487Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2025-05-28T11:51:09.506Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-28T11:51:09.522Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method click"}
+{"level":30,"time":"2025-05-28T11:51:09.523Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with css=button[type=submit] in page."}
+{"level":30,"time":"2025-05-28T11:51:09.593Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method click"}
+{"level":30,"time":"2025-05-28T11:51:09.613Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-05-28T11:51:09.613Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2025-05-28T11:51:11.510Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-05-28T11:51:11.536Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method getText"}
+{"level":30,"time":"2025-05-28T11:51:11.537Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2025-05-28T11:51:11.568Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Retrieved text for element css=.notice p containing Boas vindas ao Mark85, o seu gerenciador de tarefas."}
+{"level":30,"time":"2025-05-28T11:51:11.568Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method getText"}
+{"level":30,"time":"2025-05-28T11:51:11.588Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T11:51:11.590Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T11:51:11.601Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T11:51:11.603Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T11:51:11.640Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method goTo"}
+{"level":30,"time":"2025-05-28T11:51:11.733Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method goTo"}
+{"level":30,"time":"2025-05-28T11:51:11.749Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-05-28T11:51:11.749Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2025-05-28T11:51:11.780Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-05-28T11:51:11.799Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method getText"}
+{"level":30,"time":"2025-05-28T11:51:11.799Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2025-05-28T11:51:11.830Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Retrieved text for element css=h1 containing Faça seu cadastro"}
+{"level":30,"time":"2025-05-28T11:51:11.830Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method getText"}
+{"level":30,"time":"2025-05-28T11:51:11.844Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-28T11:51:11.844Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2025-05-28T11:51:11.860Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-28T11:51:11.874Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-28T11:51:11.874Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2025-05-28T11:51:11.893Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-28T11:51:11.911Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-05-28T11:51:11.911Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2025-05-28T11:51:11.927Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method fillText"}
+{"level":30,"time":"2025-05-28T11:51:11.941Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method click"}
+{"level":30,"time":"2025-05-28T11:51:11.941Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with css=button[type=submit] in page."}
+{"level":30,"time":"2025-05-28T11:51:11.990Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method click"}
+{"level":30,"time":"2025-05-28T11:51:12.002Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-05-28T11:51:12.003Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2025-05-28T11:51:12.039Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-05-28T11:51:12.048Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method getText"}
+{"level":30,"time":"2025-05-28T11:51:12.048Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2025-05-28T11:51:12.068Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Retrieved text for element css=.notice p containing Oops! Já existe uma conta com o e-mail informado."}
+{"level":30,"time":"2025-05-28T11:51:12.068Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method getText"}
+{"level":30,"time":"2025-05-28T11:51:12.089Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T11:51:12.090Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T11:51:12.102Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2025-05-28T11:51:12.136Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Removed page=1db5ba81-75ac-49ed-813d-e9a2ed3a4615 from context=c4af434b-747c-41b7-b6bd-1ff225f442d2 page stack"}
+{"level":30,"time":"2025-05-28T11:51:12.537Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method closeBrowser"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Python311\Lib\site-packages\Browser\wrapper\index.js:12226:15)
+    at PlaywrightServer.getActiveBrowser (C:\Python311\Lib\site-packages\Browser\wrapper\index.js:13122:59)
+    at PlaywrightServer.setTimeout (C:\Python311\Lib\site-packages\Browser\wrapper\index.js:13370:57)
+    at Object.onReceiveHalfClose (C:\Python311\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:1461:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (C:\Python311\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:575:31)
+    at BaseServerInterceptingCall.handleEndEvent (C:\Python311\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:615:14)
+    at ServerHttp2Stream.<anonymous> (C:\Python311\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:382:18)
+    at ServerHttp2Stream.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+=============================================================
+{"level":30,"time":"2025-05-28T11:51:12.608Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T11:51:12.608Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-28T11:51:12.689Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2025-05-28T11:51:12.689Z","pid":12208,"hostname":"DESKTOP-FRRDCSF","msg":"End of node method closeAllBrowsers"}
